@@ -1,0 +1,16 @@
+#mf-meta-boxes .inside p {
+	background: #f1f1f1;
+	margin-bottom:0;
+	padding:5px 0 5px 10px;
+}
+
+#mf-meta-boxes .inside p:hover {
+	background: #e0e0e0;
+	cursor: pointer;
+
+}
+
+#mf-add-field {
+	display:block;
+	padding:8px 5px;
+}
