@@ -11,4 +11,5 @@ jQuery(document).ready(function($) {
 		$(this).parent('p').remove();
 		return false;
 	});
+	
 }); //ready

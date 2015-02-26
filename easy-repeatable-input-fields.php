@@ -3,7 +3,7 @@
 Plugin Name: Easy Repeatable Input Fields
 Plugin URI: http://theportraitofageek.com/blog/?p=967
 Description: Repeatable and sortable input fields for WordPress
-Version: 1.0
+Version: 1.1
 Author: The CSSigniter Team
 Author URI: http://www.cssigniter.com/
 
@@ -27,7 +27,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 
 if (!defined('erif_version'))
-	define('erif_version', '1.0');
+	define('erif_version', '1.1');
 
 if (!defined('erif_field'))
 	define('erif_field', 'series');

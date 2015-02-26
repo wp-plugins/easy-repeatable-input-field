@@ -2,10 +2,10 @@
 Contributors: tsiger
 Tags: repeatable, input, field, post box, meta box, post meta
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.1
 
-A repeatable and sortable input field in your post/page edit screen. Add as many input fields as you want, re-order them, save your post/page and display your list.
+A repeatable and sortable input field in your post/page edit screen. Add as many input fields as you want, re-order them, save your post or page and display your list.
 
 == Description ==
 
@@ -21,6 +21,9 @@ To install Easy Repeatable Input Fields:
 1. Add the shortcode [erif] in the main post editor.
 
 == Changelog ==
+
+= 1.1 -
+Maintenance Release
 
 = 1.0 =
 * First release
