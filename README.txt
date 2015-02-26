@@ -5,11 +5,11 @@ Requires at least: 3.0
 Tested up to: 4.1.1
 Stable tag: 1.1
 
-A repeatable and sortable input field in your post/page edit screen. Add as many input fields as you want, re-order them, save your post or page and display your list.
+A repeatable and sortable input field in your post/page edit screen. Add as many input fields as you want, re-order them and display your list.
 
 == Description ==
 
-With Easy Repeatable Input Field you can create simple. It's really handy when you don't want to create a list in the main post editor or/and the number of items in your list is unknown.
+With Easy Repeatable Input Field you can create simple lists. It's really handy when you don't want to create a list in the main post editor or/and the number of items in your list is unknown.
 
 == Installation ==
 
